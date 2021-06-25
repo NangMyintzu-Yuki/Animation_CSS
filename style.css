@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.navbar{
+    background-color: #7B3F00;
+}
+.navbar .logo{
+    display: inline;
+    padding-left: 10%;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    float:left;
+}
+.navbar .nav-list{
+    float: right;
+    margin-right: 10%;
+}
+.navbar li{
+    padding: 12px 16px 12px 16px;
+    display: inline;
+    position: end;
+    /* float: right; */
+    /* padding-right: 10%; */
+}
